@@ -252,6 +252,70 @@
           "explanation": "that의 t가 약해지고 I'm과 이어져 \"대라임\"에 가깝게 들립니다."
         }
       ]
+    },
+    {
+      "id": "here-to-blow-at-your-back",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "I'm here to blow at your back.",
+      "chunks": ["I'm here", "to blow", "at your back."],
+      "translation": "나는 네 등을 밀어 주려고 온 거야. / 너를 응원하러 온 거야.",
+      "structure": [
+        "I'm here to + 동사원형: \"~하러 온 거야\". 앞 문장 \"I'm not here to spit in your face\"의 긍정형으로, 부정했던 의도 자리에 진짜 의도를 넣는 \"I'm not here to A. I'm here to B.\" 대비 구조입니다.",
+        "at your back: \"네 등 뒤에서\". 등 뒤에서 바람이 불어 앞으로 밀어 주는 그림입니다.",
+        "\"blow at your back\"은 굳어진 관용구가 아니어서, 실제 대사는 \"I'm here to be the wind at your back\"이나 \"blow wind at your back\"일 수 있습니다. 음원으로 확인이 필요합니다."
+      ],
+      "nuance": "wind at your back은 \"순풍, 뒤에서 밀어 주는 힘\"이라는 관용 표현으로, 일이 잘 풀리도록 돕는 지원을 뜻합니다. 앞 문장과 이어서 \"모욕하러(얼굴에 침 뱉으러) 온 게 아니라 응원하러(등을 밀어 주러) 왔다\"는 대비를 이룹니다. 비슷한 표현: I've got your back.(지켜 준다는 느낌) / I'm in your corner.",
+      "pronunciation": {
+        "slow": "아임 히어 투 블로우 앳 유어 백",
+        "fast": "암 히어 터 블로우 애츄어 백",
+        "notes": [
+          "I'm은 빠르면 \"암\"에 가깝게 짧아집니다.",
+          "to는 \"터\"로 약화됩니다.",
+          "at your는 t와 y가 만나 \"애츄어\"처럼 붙습니다. 가장 놓치기 쉬운 구간입니다.",
+          "back의 k는 끝에서 거의 터뜨리지 않고 닫듯이 끝냅니다."
+        ]
+      },
+      "tips": {
+        "stress": "here, blow, back에 힘이 실립니다. \"I'm HERE to BLOW at your BACK.\"",
+        "linking": "at your를 \"애츄어\"로 붙입니다.",
+        "intonation": "평서문이라 끝이 내려갑니다. 앞 문장과 대비하는 말이라 here에 힘을 주는 경우가 많습니다.",
+        "breath": "앞 문장과 한 세트로 연습하세요: \"I'm not here to spit in your face. / I'm here to blow at your back.\""
+      },
+      "examples": [
+        { "en": "I'm here to help, not to judge.", "ko": "판단하러 온 게 아니라 도우러 왔어." },
+        { "en": "You've got the wind at your back now.", "ko": "이제 순풍이 불고 있어. (일이 잘 풀리고 있어.)" }
+      ],
+      "summary": "\"I'm not here to ~ / I'm here to ~\" 대비로 진짜 의도를 밝히는 문장이고, 등 뒤의 바람은 \"응원과 지원\"을 뜻하는 이미지입니다.",
+      "tags": ["I'm here to", "관용구", "대비 표현"],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "I'm not here to spit in your face. I'm here to blow at your ___.",
+          "answer": "back",
+          "explanation": "얼굴(face)과 등(back)이 대비를 이룹니다."
+        },
+        {
+          "type": "meaning",
+          "q": "\"wind at your back\"의 뜻으로 가장 알맞은 것은?",
+          "choices": ["뒤에서 밀어 주는 응원과 지원", "등 뒤에서 하는 험담", "뒤처지는 상황", "등이 시린 추위"],
+          "answer": "뒤에서 밀어 주는 응원과 지원",
+          "explanation": "순풍처럼 앞으로 나아가게 돕는 힘을 뜻하는 관용 표현입니다."
+        },
+        {
+          "type": "linking",
+          "q": "at your를 빠르게 말하면 어떻게 들릴까요? (한글 표기)",
+          "answer": "애츄어",
+          "explanation": "t와 y가 만나 \"츄\" 소리로 붙습니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"모욕하러 온 게 아니야. 응원하러 온 거야.\"를 not here to / here to 대비로 말해 보세요.",
+          "answer": "I'm not here to spit in your face. I'm here to blow at your back.",
+          "explanation": "I'm not here to A. I'm here to B. 구조입니다."
+        }
+      ]
     }
   ]
 }
