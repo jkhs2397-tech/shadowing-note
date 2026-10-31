@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "title": "미드 쉐도잉 노트",
+  "sentences": [
+    {
+      "id": "what-do-i-know",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "What do I know?",
+      "chunks": ["What do I", "know?"],
+      "translation": "내가 뭘 알겠어. / 내가 뭘 안다고. (문자 그대로는 \"내가 무엇을 알고 있지?\")",
+      "structure": [
+        "의문사 What + 조동사 do + 주어 I + 동사 know. what은 know의 목적어가 앞으로 나온 형태입니다.",
+        "의문문이라 do-support가 들어가 know는 원형입니다. do를 빼고 \"What I know\"라고 하면 \"내가 아는 것\"이라는 명사절이 되어 전혀 다른 문장이 됩니다."
+      ],
+      "nuance": "대개 질문이 아니라 수사적 표현으로, 의견을 말한 뒤 한 발 빼는 겸손함이나 자조, 체념을 나타냅니다. 예: \"I think he's lying. But what do I know?\" 같은 모양으로 상대의 의견을 비꼬는 쓰임도 있어서, 억양과 문맥으로 구분해야 합니다. 비슷한 표현: Who am I to say? / I'm no expert.",
+      "pronunciation": {
+        "slow": "왓 두 아이 노우",
+        "fast": "워러이 노우",
+        "notes": [
+          "what do가 \"와다/워러\"로 붙고 I와 이어집니다.",
+          "do는 /də/로 약화됩니다."
+        ]
+      },
+      "tips": {
+        "stress": "know에 주 강세. 수사적 용법에서는 I에도 힘이 실려 \"What do I KNOW?\"처럼 들릴 수 있습니다.",
+        "linking": "what do I를 한 덩어리로 빠르게 붙입니다.",
+        "intonation": "수사적 용법은 끝이 내려가고, 문자 그대로의 질문은 올라가는 경우가 많습니다. 음원의 끝 억양을 먼저 확인하세요.",
+        "breath": "중간에 끊지 않고 한 호흡으로 말합니다."
+      },
+      "examples": [
+        { "en": "What do you think?", "ko": "너는 어떻게 생각해?" },
+        { "en": "What do they want from us?", "ko": "그들은 우리한테 뭘 원하는 거지?" }
+      ],
+      "summary": "\"What do I know?\"는 대개 질문이 아니라 \"내가 뭘 알겠어\"라는 한 발 빼는 말이고, 의미는 know의 강세와 끝 억양에서 갈립니다.",
+      "tags": ["수사적 표현", "do-support", "구어체"],
+      "level": 2,
+      "quiz": [
+        {
+          "type": "meaning",
+          "q": "\"I think he's lying. But what do I know?\"에서 What do I know?의 뜻으로 가장 알맞은 것은?",
+          "choices": ["내가 아는 것은 무엇일까?", "내가 뭘 알겠어.", "너는 뭘 아니?", "내가 아는 것을 말해 줄게."],
+          "answer": "내가 뭘 알겠어.",
+          "explanation": "의견을 말한 뒤 한 발 빼는 수사적 표현입니다. 문자 그대로의 질문이 아닙니다."
+        },
+        {
+          "type": "cloze",
+          "q": "What ___ I know?",
+          "answer": "do",
+          "explanation": "의문문이라 do-support가 필요합니다. do를 빼면 \"What I know\"(내가 아는 것)가 됩니다."
+        },
+        {
+          "type": "linking",
+          "q": "What do I know?를 빠르게 말하면 어떻게 들릴까요? (한글 표기)",
+          "answer": "워러이 노우",
+          "explanation": "what do가 \"워러\"로 붙고 do는 /də/로 약화되어 I와 이어집니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"내가 뭘 알겠어.\"를 영어로 말해 보세요.",
+          "answer": "What do I know?",
+          "explanation": "수사적 용법이며, know에 강세를 두고 끝을 내립니다."
+        }
+      ]
+    },
+    {
+      "id": "do-i-know",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "Do I know ~?",
+      "chunks": ["Do I", "know ~?"],
+      "translation": "내가 ~를 아나? / 내가 ~를 알고 있나? 예: Do I know you? → 우리 아는 사이인가요?",
+      "structure": [
+        "조동사 Do + 주어 I + 동사 know로 이루어진 예/아니오 의문문입니다. 대답은 \"Yes, you do. / No, you don't.\"입니다.",
+        "\"What do I know?\"에서 what을 빼면 이 문장이 됩니다. what이 있으면 \"무엇을 아는가\"를 묻는 의문사 의문문이고, 없으면 \"아는가 모르는가\"를 묻는 문장입니다."
+      ],
+      "nuance": "문자 그대로의 질문이면 자기 기억을 더듬거나 \"어디서 본 적 있나요?\"처럼 상대에게 말을 거는 표현으로 쓰입니다. 예: \"Do I know you from somewhere?\" 수사적 반문으로도 쓰입니다. 예: \"Do I know him? He's my brother!\" (내가 그를 아냐고? 내 동생인데!) 어느 쪽인지는 문맥과 억양으로 갈립니다.",
+      "pronunciation": {
+        "slow": "두 아이 노우",
+        "fast": "다이 노우",
+        "notes": [
+          "Do I가 /dəɪ/ 정도로 붙어 빠르게 \"다이\"에 가깝게 들립니다."
+        ]
+      },
+      "tips": {
+        "stress": "보통 know에 주 강세. 수사적 반문이면 Do나 I에 힘이 실립니다(\"DO I know him?\").",
+        "linking": "Do I know까지 한 호흡으로 붙입니다.",
+        "intonation": "예/아니오 의문문이라 끝이 올라가는 경우가 많습니다. 수사적 반문은 내려갈 수 있습니다.",
+        "breath": "Do I know까지 한 호흡."
+      },
+      "examples": [
+        { "en": "Do I know you?", "ko": "우리 아는 사이인가요?" },
+        { "en": "Do I know what I'm doing?", "ko": "내가 뭘 하는지 알고는 있나?" }
+      ],
+      "summary": "\"Do I know ~?\"는 \"내가 ~를 아나?\"라는 예/아니오 의문문이고, what이 붙으면 \"내가 뭘 알겠어\"라는 반문으로 뉘앙스가 바뀝니다.",
+      "tags": ["의문문", "do-support", "구어체"],
+      "level": 1,
+      "quiz": [
+        {
+          "type": "meaning",
+          "q": "\"Do I know him? He's my brother!\"에서 Do I know him?의 쓰임은?",
+          "choices": ["그가 누구인지 묻는 질문", "당연히 안다는 수사적 반문", "기억이 안 나서 묻는 혼잣말", "상대에게 그를 아는지 묻는 질문"],
+          "answer": "당연히 안다는 수사적 반문",
+          "explanation": "\"내가 그를 아냐고? 내 동생인데!\"라는 강조입니다."
+        },
+        {
+          "type": "cloze",
+          "q": "___ I know you from somewhere?",
+          "answer": "Do",
+          "explanation": "예/아니오 의문문이라 Do로 시작합니다."
+        },
+        {
+          "type": "linking",
+          "q": "Do I know를 빠르게 말하면 어떻게 들릴까요? (한글 표기)",
+          "answer": "다이 노우",
+          "explanation": "Do가 약해져 I에 붙습니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"우리 아는 사이인가요?\"를 영어로 말해 보세요.",
+          "answer": "Do I know you?",
+          "explanation": "\"Do you know me?\"보다 자기 기억을 더듬는 느낌이 강합니다."
+        }
+      ]
+    },
+    {
+      "id": "wrote-the-book-on-fatherhood",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "It's not like I wrote the book on fatherhood.",
+      "chunks": ["It's not like", "I wrote the book", "on fatherhood."],
+      "translation": "내가 아버지 노릇의 전문가인 것도 아니고. / 내가 아빠 되는 법을 다 아는 것도 아니잖아.",
+      "structure": [
+        "It's not like + 절: \"~인 것도 아니고, ~라는 건 아니잖아\"라는 구어 표현으로, 앞서 한 말을 약하게 부정하거나 변명·양보할 때 씁니다. like 뒤에 문장이 통째로 옵니다. 예: It's not like I care.",
+        "write the book on ~: \"~에 대한 책을 쓰다\"가 아니라 \"~의 최고 권위자다, 모르는 게 없다\"라는 관용구입니다.",
+        "시제는 과거(wrote)지만 \"지금 내가 그 분야의 권위자 입장이다\"라는 관용적 쓰임입니다."
+      ],
+      "nuance": "겸손하거나 자조적인 톤이며 \"What do I know?\"와 결이 비슷합니다. 조언 뒤에 덧붙이는 겸손(\"내가 대단한 아빠는 아니지만\")일 수도, 자신의 부족함을 털어놓는 변명(\"나도 처음이라 서툴러\")일 수도 있어서 앞 문장을 봐야 정확히 알 수 있습니다. 격식 없는 구어체입니다.",
+      "pronunciation": {
+        "slow": "잇츠 낫 라이크 아이 로웃 더 북 온 파더후드",
+        "fast": "잇츠 낫 라이 카이 로웃 더 부콘 파덜후드",
+        "notes": [
+          "like I는 k가 I에 붙어 \"라이 카이\"처럼 들립니다.",
+          "the는 매우 짧고 약합니다.",
+          "book on은 \"부콘\"으로 이어집니다.",
+          "not의 t, wrote의 t는 끝소리가 약해집니다.",
+          "fatherhood의 th는 혀를 이 사이에 살짝 끼우는 소리입니다."
+        ]
+      },
+      "tips": {
+        "stress": "book과 fatherhood에 힘이 실립니다. \"wrote the BOOK on FAtherhood\"처럼 fatherhood는 첫 음절을 강조합니다.",
+        "linking": "It's not like는 빠르게 이어서 말하고, the는 약화합니다.",
+        "intonation": "평서문이라 끝이 내려갑니다. 자조적이면 끝을 살짝 흘립니다.",
+        "breath": "\"It's not like I wrote the book\"까지 한 호흡, \"on fatherhood\"로 마무리합니다."
+      },
+      "examples": [
+        { "en": "It's not like I wrote the book on marriage, but I can give you some advice.", "ko": "내가 결혼의 전문가는 아니지만 조언은 해 줄 수 있어." },
+        { "en": "It's not like I'm an expert.", "ko": "내가 전문가인 것도 아니고." }
+      ],
+      "summary": "\"It's not like I wrote the book on ~\"는 \"내가 ~의 전문가는 아니지만\"이라는 겸손한 관용 표현이고, write the book은 글자 그대로의 뜻이 아닙니다.",
+      "tags": ["관용구", "It's not like", "겸손 표현"],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "It's not like I wrote the ___ on fatherhood.",
+          "answer": "book",
+          "explanation": "write the book on ~는 \"~의 전문가다\"라는 관용구입니다."
+        },
+        {
+          "type": "meaning",
+          "q": "\"I wrote the book on fatherhood\"의 뜻은?",
+          "choices": ["아버지에 대한 책을 출간했다", "아버지 노릇의 권위자다", "아버지에게 책을 써 주었다", "아버지가 되고 싶다"],
+          "answer": "아버지 노릇의 권위자다",
+          "explanation": "글자 그대로의 뜻이 아니라 관용구입니다."
+        },
+        {
+          "type": "linking",
+          "q": "book on을 빠르게 말하면 어떻게 이어질까요? (한글 표기)",
+          "answer": "부콘",
+          "explanation": "book의 k가 on의 모음에 붙어 이어집니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"내가 전문가인 것도 아니고.\"를 It's not like로 시작해 말해 보세요.",
+          "answer": "It's not like I'm an expert.",
+          "explanation": "It's not like 뒤에는 문장이 통째로 옵니다."
+        }
+      ]
+    },
+    {
+      "id": "not-here-to-spit-in-your-face",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "You should know that I'm not here to spit in your face.",
+      "chunks": ["You should know that", "I'm not here", "to spit in your face."],
+      "translation": "이건 알아 둬. 나는 네 얼굴에 침 뱉으러 온 게 아니야. / 말해 두는데, 너를 모욕하려고 온 게 아니야.",
+      "structure": [
+        "You should know that + 절: \"~라는 건 알아 둬야 해\"라는 뜻으로, 중요한 말을 꺼내기 전에 주의를 끄는 도입부입니다. that은 접속사이며 구어에서는 생략되기도 합니다.",
+        "I'm not here to + 동사원형: \"나는 ~하러 온 게 아니야\"라는 의도 부정 구조이고, to spit은 목적을 나타내는 to부정사입니다.",
+        "spit in your face: 전치사로 in을 씁니다. \"spit in someone's face\"로 굳어진 표현이라 통째로 외우는 것이 좋습니다. (spit on someone도 쓰이지만 뉘앙스가 조금 다를 수 있어 문맥에 따라 확인이 필요합니다.)"
+      ],
+      "nuance": "상대에게 적대감이 없다는 것을 분명히 하려는 말입니다. spit in your face는 문자 그대로의 침 뱉기이면서 비유적으로는 상대를 무시하고 모욕하는 행위 전체를 뜻하는 강한 표현입니다. 앞 장면에서 상대가 방어적이었을 가능성이 높고, 이 문장은 상대의 경계를 풀려는 시도로 읽힙니다. 다만 실제 장면은 앞뒤 대사를 봐야 정확합니다. 비슷한 표현: I didn't come here to fight. / I'm not here to judge you.",
+      "pronunciation": {
+        "slow": "유 슈드 노우 댓 아임 낫 히어 투 스핏 인 유어 페이스",
+        "fast": "유 슈 노우 대라임 나 히어 터 스핏 이뉴어 페이스",
+        "notes": [
+          "should know는 \"슈 노우\"처럼 붙기도 합니다.",
+          "that I'm은 t가 약해지고 이어져 \"대라임\"에 가깝습니다.",
+          "not here는 not의 t가 거의 들리지 않습니다.",
+          "to는 \"터\"로 약화되고, in your는 \"이뉴어\"로 붙습니다.",
+          "spit의 p는 s 뒤라서 된소리 \"스삣\"에 가깝게 납니다."
+        ]
+      },
+      "tips": {
+        "stress": "should, know, here, spit, face에 힘이 실립니다. \"You should KNOW that I'm not HERE to SPIT in your FACE.\"",
+        "linking": "that I'm, in your처럼 자음과 모음이 이어지는 곳을 붙입니다.",
+        "intonation": "평서문이라 끝은 내려가지만 감정이 실려 face를 눌러 말하는 경우가 많습니다.",
+        "breath": "\"You should know that / I'm not here to spit in your face\"처럼 중간에 한 번 끊어 쉬면 따라 하기 쉽습니다."
+      },
+      "examples": [
+        { "en": "I'm not here to argue.", "ko": "싸우러 온 게 아니야." },
+        { "en": "You should know that I never meant to hurt you.", "ko": "내가 너를 해칠 의도는 없었다는 걸 알아 줘." }
+      ],
+      "summary": "\"I'm not here to ~\"는 \"~하러 온 게 아니야\"로 의도를 밝히는 틀이고, spit in your face는 상대를 모욕하는 행위를 뜻하는 강한 비유입니다.",
+      "tags": ["관용구", "I'm not here to", "도입 표현"],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "You should know that I'm not here ___ spit in your face.",
+          "answer": "to",
+          "explanation": "I'm not here to + 동사원형 구조입니다."
+        },
+        {
+          "type": "meaning",
+          "q": "spit in your face가 비유적으로 뜻하는 것은?",
+          "choices": ["상대를 모욕하거나 무시하는 행위", "상대를 응원하는 행위", "상대에게 도움을 청하는 행위", "상대의 말을 반복하는 행위"],
+          "answer": "상대를 모욕하거나 무시하는 행위",
+          "explanation": "문자 그대로의 침 뱉기이면서 모욕 전체를 가리키는 강한 표현입니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"싸우러 온 게 아니야.\"를 I'm not here to로 시작해 말해 보세요.",
+          "answer": "I'm not here to argue.",
+          "explanation": "I'm not here to + 동사원형. fight도 쓸 수 있습니다."
+        },
+        {
+          "type": "linking",
+          "q": "that I'm을 빠르게 말하면 어떻게 들릴까요? (한글 표기)",
+          "answer": "대라임",
+          "explanation": "that의 t가 약해지고 I'm과 이어져 \"대라임\"에 가깝게 들립니다."
+        }
+      ]
+    }
+  ]
+}

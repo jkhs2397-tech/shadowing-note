@@ -1,0 +1,16 @@
+{
+  "name": "쉐도잉 노트",
+  "short_name": "쉐도잉",
+  "description": "미드 쉐도잉 문장을 구조, 뉘앙스, 발음으로 복습하는 노트",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E9EEF1",
+  "theme_color": "#E9EEF1",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
