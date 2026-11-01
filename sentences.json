@@ -316,6 +316,168 @@
           "explanation": "I'm not here to A. I'm here to B. 구조입니다."
         }
       ]
+    },
+    {
+      "id": "take-it-down-a-notch",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "Let's take it down a notch.",
+      "chunks": [
+        "Let's take it",
+        "down a notch."
+      ],
+      "translation": "우리 좀 진정하자. / 한 단계만 낮추자.",
+      "structure": [
+        "Let's + 동사원형: \"~하자\"라는 제안입니다.",
+        "take it down: it은 특정한 물건이 아니라 지금의 분위기, 목소리, 감정, 강도를 가리킵니다.",
+        "a notch: notch는 벨트 구멍 같은 \"한 칸\"이라서, 완전히 멈추라는 게 아니라 조금만 줄이자는 뜻이 됩니다. 반대는 take it up a notch / kick it up a notch입니다."
+      ],
+      "nuance": "목소리가 커지거나 분위기가 과열됐을 때 부드럽게 진정시키는 말입니다. Let's를 써서 상대만 탓하지 않는 느낌이지만, 이미 화난 상대에게는 거슬리게 들릴 수도 있습니다. 볼륨, 매운맛, 과한 연기 등에도 씁니다. 비슷한 표현: Let's calm down. / Let's dial it back. / Tone it down.",
+      "pronunciation": {
+        "slow": "렛츠 테이크 잇 다운 어 노치",
+        "fast": "렛츠 테이킷 다우너 나치",
+        "notes": [
+          "take it은 k가 it에 붙어 \"테이킷\"이 됩니다.",
+          "down a는 \"다우너\"로 붙어 a가 묻힙니다.",
+          "notch는 입을 크게 벌린 \"나치\"에 가깝습니다."
+        ]
+      },
+      "tips": {
+        "stress": "TAKE, DOWN, NOTCH에 힘이 실립니다.",
+        "linking": "take it, down a를 붙여 말합니다.",
+        "intonation": "진정시키는 말이라 차분하고 낮게, 끝을 내립니다.",
+        "breath": "한 호흡에 천천히 말합니다."
+      },
+      "examples": [
+        {
+          "en": "Can you take it down a notch? I'm on the phone.",
+          "ko": "좀 조용히 해 줄래? 나 통화 중이야."
+        },
+        {
+          "en": "This song is great, but let's kick it up a notch.",
+          "ko": "노래 좋은데, 한 단계 더 신나게 가 보자."
+        }
+      ],
+      "summary": "\"Let's take it down a notch\"는 \"한 칸만 낮추자\", 즉 분위기나 감정을 부드럽게 진정시키는 말이고, 빠르게 말하면 down a가 \"다우너\"로 붙습니다.",
+      "tags": [
+        "관용구",
+        "진정시키기",
+        "Let's"
+      ],
+      "level": 2,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "Let's take it down a ___.",
+          "answer": "notch",
+          "explanation": "notch는 \"한 칸\"입니다."
+        },
+        {
+          "type": "meaning",
+          "q": "\"take it down a notch\"의 뜻으로 가장 알맞은 것은?",
+          "choices": [
+            "조금 진정하다, 강도를 낮추다",
+            "완전히 그만두다",
+            "물건을 내려놓다",
+            "더 세게 하다"
+          ],
+          "answer": "조금 진정하다, 강도를 낮추다",
+          "explanation": "완전히 멈추는 게 아니라 한 단계만 낮추는 것입니다."
+        },
+        {
+          "type": "linking",
+          "q": "down a를 빠르게 말하면? (한글 표기)",
+          "answer": "다우너",
+          "explanation": "n이 a에 붙어 a가 묻힙니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"한 단계 더 신나게 가 보자.\"를 notch로 말해 보세요.",
+          "answer": "Let's kick it up a notch.",
+          "explanation": "down의 반대는 up입니다."
+        }
+      ]
+    },
+    {
+      "id": "gotta-take-that-kid-out",
+      "added": "2026-11-01",
+      "source": "",
+      "text": "You gotta take that kid out.",
+      "chunks": [
+        "You gotta",
+        "take that kid out."
+      ],
+      "translation": "저 애를 막아야 해. / 저 애를 경기에서 빼야 해. / 그 애 데리고 나가야 해. (장면에 따라 다름)",
+      "structure": [
+        "gotta = got to = have to, \"~해야 한다\"입니다. get to(\"~하게 되다\")와는 다르며, 소리는 gotta \"가러\", get to \"게러\"로 모음이 다릅니다.",
+        "take ~ out은 구동사로, 목적어가 take와 out 사이에 들어갔습니다. 대명사면 반드시 가운데에 옵니다: take him out (O), take out him (X).",
+        "take out의 주요 뜻: 데리고 나가다 / 빼다, 꺼내다 / 제거하다, 무력화하다(경기에서 막다·쓰러뜨리다)."
+      ],
+      "nuance": "스포츠 장면이면 \"저 선수를 묶어라, 넘어뜨려서라도 막아라\"라는 거친 지시입니다. 앞 대사 \"He tripped him\"과 이어진다면 이 지시를 받고 실제로 반칙한 흐름으로 읽힙니다. 감독 말이면 \"경기에서 빼라\", 일상이면 \"데리고 나가라\"입니다. 장면 확인이 필요합니다.",
+      "pronunciation": {
+        "slow": "유 갓 투 테이크 댓 키드 아웃",
+        "fast": "유 가러 테익 댓 킷 아웃",
+        "notes": [
+          "gotta는 tt가 굴러 \"가러\"가 됩니다.",
+          "that의 t는 터뜨리지 않고 혀만 대고 멈춥니다.",
+          "kid out은 d가 굴러 \"키라웃\"처럼 들리기도 합니다."
+        ]
+      },
+      "tips": {
+        "stress": "GOTta, KID, OUT에 힘이 실립니다.",
+        "linking": "kid out을 붙여 말합니다.",
+        "intonation": "지시하는 말이라 out에서 확실히 내려 끝냅니다.",
+        "breath": "한 호흡에 빠르고 단호하게 말합니다."
+      },
+      "examples": [
+        {
+          "en": "You gotta take him out of the game.",
+          "ko": "그 애 경기에서 빼야 해."
+        },
+        {
+          "en": "He took me out for dinner.",
+          "ko": "그가 저녁 먹으러 데리고 나갔어."
+        }
+      ],
+      "summary": "\"You gotta take that kid out\"은 장면에 따라 \"막아라 / 빼라 / 데리고 나가라\"가 되는 문장이고, gotta는 \"가러\"로 굴러갑니다.",
+      "tags": [
+        "구동사",
+        "gotta",
+        "구어체"
+      ],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "meaning",
+          "q": "gotta의 원래 형태와 뜻은?",
+          "choices": [
+            "got to, ~해야 한다",
+            "get to, ~하게 되다",
+            "going to, ~할 거다",
+            "want to, ~하고 싶다"
+          ],
+          "answer": "got to, ~해야 한다",
+          "explanation": "gotta = got to = have to입니다."
+        },
+        {
+          "type": "cloze",
+          "q": "You gotta take that kid ___.",
+          "answer": "out",
+          "explanation": "take ~ out 구동사입니다."
+        },
+        {
+          "type": "linking",
+          "q": "gotta를 빠르게 말하면? (한글 표기)",
+          "answer": "가러",
+          "explanation": "tt가 굴러 ㄹ처럼 됩니다. get to는 \"게러\"입니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"나 하와이 가게 됐어.\"를 get to로 말해 보세요.",
+          "answer": "I get to go to Hawaii.",
+          "explanation": "get to는 좋은 기회가 생겼다는 뜻입니다."
+        }
+      ]
     }
   ]
 }
