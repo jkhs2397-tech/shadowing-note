@@ -727,6 +727,88 @@
           "explanation": "부정은 to 앞에 not을 붙입니다."
         }
       ]
+    },
+    {
+      "id": "bound-to-be-surprised",
+      "added": "2026-11-09",
+      "source": "",
+      "text": "I'm bound to be a little surprised.",
+      "chunks": [
+        "I'm bound to be",
+        "a little surprised."
+      ],
+      "translation": "내가 좀 놀라는 건 당연하잖아. / 조금 놀랄 수밖에 없지.",
+      "structure": [
+        "be bound to + 동사원형: \"틀림없이 ~하게 되어 있다, ~할 수밖에 없다\"라는 강한 예상입니다. 예: It's bound to rain. / You're bound to make mistakes at first.",
+        "bound는 bind(묶다)의 과거분사와 같은 단어입니다. \"묶여 있다 → 그렇게 되도록 정해져 있다\"로 뜻이 넓어졌습니다.",
+        "a little surprised: a little이 surprised를 약하게 만듭니다. 철자는 surprised(r이 두 번)입니다."
+      ],
+      "nuance": "자기 반응을 변명하거나 정당화하는 말로, \"누구라도 놀랐을 거야\"라는 뜻이 깔려 있습니다. a little은 실제로는 꽤 놀랐는데 담담한 척하는 절제 표현(understatement)일 때가 많습니다.",
+      "pronunciation": {
+        "slow": "아임 바운드 투 비 어 리틀 서프라이즈드",
+        "fast": "암 바운터비 어리를 서프라이즈드",
+        "notes": [
+          "bound to는 d와 t가 합쳐져 \"바운터\"가 됩니다.",
+          "be a는 \"비어\"로 붙습니다.",
+          "little은 tt가 굴러 \"리를\"이 됩니다.",
+          "surprised는 둘째 음절에 강세, 끝 -ed는 [d]입니다."
+        ]
+      },
+      "tips": {
+        "stress": "BOUND, LITtle, surPRISED에 힘이 실립니다.",
+        "linking": "bound to be a를 한 덩어리로 붙입니다.",
+        "intonation": "평서문이라 끝이 내려갑니다. 변명하는 톤이면 bound에 힘을 줍니다.",
+        "breath": "한 호흡에 말합니다."
+      },
+      "examples": [
+        {
+          "en": "It's bound to happen sooner or later.",
+          "ko": "언젠가는 일어날 수밖에 없는 일이야."
+        },
+        {
+          "en": "You're bound to feel nervous on your first day.",
+          "ko": "첫날엔 긴장될 수밖에 없지."
+        }
+      ],
+      "summary": "\"be bound to\"는 \"~할 수밖에 없다, 틀림없이 ~하게 된다\"라는 강한 예상이고, a little은 덜 놀란 척하는 절제 표현이며, bound to는 \"바운터\"로 붙습니다.",
+      "tags": [
+        "be bound to",
+        "절제 표현",
+        "변명"
+      ],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "I'm ___ to be a little surprised.",
+          "answer": "bound",
+          "explanation": "be bound to = ~할 수밖에 없다."
+        },
+        {
+          "type": "meaning",
+          "q": "\"It's bound to rain.\"의 뜻으로 가장 알맞은 것은?",
+          "choices": [
+            "틀림없이 비가 올 거야",
+            "비에 묶여 있어",
+            "비가 오면 안 돼",
+            "비가 그쳤어"
+          ],
+          "answer": "틀림없이 비가 올 거야",
+          "explanation": "be bound to는 강한 예상입니다."
+        },
+        {
+          "type": "linking",
+          "q": "bound to를 빠르게 말하면? (한글 표기)",
+          "answer": "바운터",
+          "explanation": "d와 t가 합쳐집니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"첫날엔 긴장될 수밖에 없지.\"를 bound to로 말해 보세요.",
+          "answer": "You're bound to feel nervous on your first day.",
+          "explanation": "be bound to + 동사원형."
+        }
+      ]
     }
   ]
 }
