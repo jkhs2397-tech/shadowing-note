@@ -560,6 +560,90 @@
           "explanation": "without으로 if절을 대신할 수 있습니다."
         }
       ]
+    },
+    {
+      "id": "keep-getting-stuck",
+      "added": "2026-11-08",
+      "source": "",
+      "text": "Why do you keep getting stuck like this?",
+      "chunks": [
+        "Why do you keep",
+        "getting stuck",
+        "like this?"
+      ],
+      "translation": "너 왜 자꾸 이렇게 걸리는 거야? / 왜 계속 이런 식으로 끼는 거야?",
+      "structure": [
+        "keep + -ing: \"자꾸 ~하다\". keep 뒤에는 동작 동사의 -ing가 와야 해서 \"keep stuck\"은 틀립니다.",
+        "get stuck vs be stuck: be stuck은 끼어 있는 상태, get stuck은 끼게 되는 사건입니다. \"자꾸\"는 사건의 반복이라 get stuck과 어울립니다. (You're stuck = 지금 껴 있다 / You got stuck = 방금 꼈다 / You keep getting stuck = 끼고 또 끼고)",
+        "stuck은 stick(붙다, 끼다)의 과거·과거분사(stick-stuck-stuck)라서 \"stucking\"은 없는 말입니다. -ing형은 sticking이지만 \"들러붙다\"라는 다른 뜻입니다(Why does it keep sticking? = 왜 자꾸 들러붙어?).",
+        "stuck만 쓰려면 be동사를 씁니다: Why are you (always) stuck like this? / You're stuck again?"
+      ],
+      "nuance": "진짜 이유를 묻기보다 \"또 이러네!\"라는 짜증 섞인 불평입니다. 무엇에 걸린 건지(물건이 끼임, 기계가 멈춤, 같은 실수 반복)는 장면을 봐야 합니다.",
+      "pronunciation": {
+        "slow": "와이 두 유 킵 게팅 스턱 라이크 디스",
+        "fast": "와이 두유 키프 게링 스떡 라익디스",
+        "notes": [
+          "do you는 \"두유\", 더 빠르면 \"쥬\"처럼 줄어듭니다.",
+          "getting의 tt가 굴러 \"게링\"이 됩니다.",
+          "stuck의 t는 s 뒤라서 된소리 \"스떡\"에 가깝습니다.",
+          "like this는 k가 거의 안 터지고 붙습니다."
+        ]
+      },
+      "tips": {
+        "stress": "WHY, KEEP, STUCK에 힘이 실립니다. 짜증이 나면 why와 keep을 더 세게 누릅니다.",
+        "linking": "getting stuck, like this를 붙여 말합니다.",
+        "intonation": "Why 의문문이라 끝이 내려갑니다. 짜증 섞인 톤이면 stuck을 길게 끌기도 합니다.",
+        "breath": "한 호흡에 말합니다."
+      },
+      "examples": [
+        {
+          "en": "I keep getting lost in this building.",
+          "ko": "이 건물에서 자꾸 길을 잃어."
+        },
+        {
+          "en": "My phone keeps getting disconnected.",
+          "ko": "폰이 자꾸 연결이 끊겨."
+        }
+      ],
+      "summary": "\"keep + -ing\"는 \"자꾸 ~하다\"이고, get stuck은 \"끼게 되는 사건\"이라 keep getting stuck이 \"자꾸 끼는 일이 반복된다\"가 됩니다. keep stuck, stucking은 틀린 표현입니다.",
+      "tags": [
+        "keep -ing",
+        "get + p.p.",
+        "구어체"
+      ],
+      "level": 2,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "Why do you keep ___ stuck like this?",
+          "answer": "getting",
+          "explanation": "keep 뒤에는 -ing가 오고, get이 \"끼게 되는\" 사건을 만듭니다."
+        },
+        {
+          "type": "meaning",
+          "q": "다음 중 문법적으로 맞고 \"자꾸 끼다\"라는 뜻인 것은?",
+          "choices": [
+            "You keep getting stuck.",
+            "You keep stuck.",
+            "You keep stucking.",
+            "You keep sticking."
+          ],
+          "answer": "You keep getting stuck.",
+          "explanation": "keep stuck과 stucking은 틀리고, keep sticking은 \"들러붙다\"라는 다른 뜻입니다."
+        },
+        {
+          "type": "linking",
+          "q": "getting을 빠르게 말하면? (한글 표기)",
+          "answer": "게링",
+          "explanation": "tt가 굴러 ㄹ처럼 됩니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"넌 왜 맨날 이렇게 껴 있어?\"를 be stuck으로 말해 보세요.",
+          "answer": "Why are you always stuck like this?",
+          "explanation": "상태를 말할 때는 be stuck을 씁니다."
+        }
+      ]
     }
   ]
 }
