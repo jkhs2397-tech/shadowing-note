@@ -644,6 +644,89 @@
           "explanation": "상태를 말할 때는 be stuck을 씁니다."
         }
       ]
+    },
+    {
+      "id": "might-as-well-tell-him-not-to-come",
+      "added": "2026-11-09",
+      "source": "",
+      "text": "I might as well just tell him not to come.",
+      "chunks": [
+        "I might as well",
+        "just tell him",
+        "not to come."
+      ],
+      "translation": "차라리 걔한테 오지 말라고 하는 게 낫겠다. / 그냥 오지 말라고 해 버리는 게 낫겠어.",
+      "structure": [
+        "might as well + 동사원형: \"(별수 없으니) 차라리 ~하는 게 낫겠다\". 다른 선택지가 별로라 체념하듯 고르는 느낌입니다. may as well도 같은 뜻입니다.",
+        "tell + 사람 + not to + 동사원형: \"~에게 …하지 말라고 하다\". 부정은 to 앞에 not을 붙입니다(tell him to come ↔ tell him not to come).",
+        "just: \"그냥, 차라리\"라는 체념이나 짜증을 강조합니다."
+      ],
+      "nuance": "계획이 틀어졌거나 상황이 엉망일 때 \"이럴 바엔 차라리\" 하는 체념·짜증입니다. 실제 결정보다는 푸념에 가까운 경우가 많습니다. 비슷한 표현: I may as well cancel. / What's the point?",
+      "pronunciation": {
+        "slow": "아이 마이트 애즈 웰 저스트 텔 힘 낫 투 컴",
+        "fast": "아이 마이러스웰 저스텔림 낫터컴",
+        "notes": [
+          "might as well은 t가 굴러 \"마이러스웰\" 한 덩어리가 됩니다.",
+          "just tell은 t가 합쳐져 \"저스텔\"이 됩니다.",
+          "tell him은 h가 빠져 \"텔림\"이 됩니다.",
+          "not to는 t가 겹쳐 \"낫터\"처럼 들립니다."
+        ]
+      },
+      "tips": {
+        "stress": "MIGHT, WELL, TELL, NOT, COME에 힘이 실립니다. not을 분명히 말해야 뜻이 바뀌지 않습니다.",
+        "linking": "might as well, tell him, not to를 붙여 말합니다.",
+        "intonation": "평서문이라 끝이 내려가고, 체념 톤이면 한숨 섞어 힘 없이 말합니다.",
+        "breath": "\"I might as well\"에서 짧게 쉬고 나머지를 이어 말합니다."
+      },
+      "examples": [
+        {
+          "en": "The bus is late. We might as well walk.",
+          "ko": "버스 늦네. 그냥 걸어가는 게 낫겠다."
+        },
+        {
+          "en": "I told her not to worry.",
+          "ko": "걔한테 걱정하지 말라고 했어."
+        }
+      ],
+      "summary": "\"might as well\"은 \"(별수 없으니) 차라리 ~하는 게 낫겠다\"라는 체념이고, 부정 지시는 \"tell him not to\"로 to 앞에 not을 붙이며, might as well은 \"마이러스웰\"로 붙습니다.",
+      "tags": [
+        "might as well",
+        "tell + not to",
+        "체념 표현"
+      ],
+      "level": 3,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "I might as ___ just tell him not to come.",
+          "answer": "well",
+          "explanation": "might as well이 한 덩어리 표현입니다."
+        },
+        {
+          "type": "meaning",
+          "q": "\"I might as well stay home.\"의 뜻으로 가장 알맞은 것은?",
+          "choices": [
+            "(별수 없으니) 그냥 집에 있는 게 낫겠다",
+            "집에 꼭 있어야 한다",
+            "집에 있을지도 모른다",
+            "집에 있으면 안 된다"
+          ],
+          "answer": "(별수 없으니) 그냥 집에 있는 게 낫겠다",
+          "explanation": "might as well은 체념 섞인 \"차라리 ~하는 게 낫겠다\"입니다."
+        },
+        {
+          "type": "linking",
+          "q": "might as well을 빠르게 말하면? (한글 표기)",
+          "answer": "마이러스웰",
+          "explanation": "might의 t가 굴러 as well과 붙습니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "\"걔한테 오지 말라고 했어.\"를 영어로 말해 보세요.",
+          "answer": "I told him not to come.",
+          "explanation": "부정은 to 앞에 not을 붙입니다."
+        }
+      ]
     }
   ]
 }
