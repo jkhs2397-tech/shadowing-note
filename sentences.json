@@ -809,6 +809,94 @@
           "explanation": "be bound to + 동사원형."
         }
       ]
+    },
+    {
+      "id": "gotta-leave-for-that-dinner-thing",
+      "added": "2026-11-14",
+      "source": "",
+      "text": "We gotta leave for that dinner thing at 5.",
+      "chunks": [
+        "We gotta leave",
+        "for that dinner thing",
+        "at 5."
+      ],
+      "translation": "우리 5시에 그 저녁 모임 가려고 출발해야 해.",
+      "structure": [
+        "gotta = got to = have got to: have to와 같은 뜻의 구어체. 뒤에 동사원형(leave)이 옵니다.",
+        "leave for + 목적지/행사: ~(으)로 출발하다. leave the house처럼 for 없이 쓰면 떠나는 곳이 목적어가 됩니다.",
+        "that dinner thing: dinner가 thing을 꾸미는 명사+명사. that은 서로 아는 그것을 가리킵니다.",
+        "thing은 셀 수 있는 단수 명사라 앞에 that/the/a 같은 한정사가 꼭 필요합니다. (for dinner thing은 X)",
+        "at 5: 시각 앞에는 at. 보통 leave에 걸려 '5시에 출발'로 읽지만, '5시에 있는 저녁 모임'으로 읽을 여지도 있어 음원 확인이 필요합니다."
+      ],
+      "nuance": "서로 일정을 아는 사이에서 시간을 챙겨 주는 말투. dinner thing처럼 뭉뚱그리면 격식 없이 가볍게, 때로는 약간 귀찮은 듯 들릴 수 있습니다(장면에 따라 다르므로 확인 필요). gotta는 have to보다 편한 구어체입니다.",
+      "pronunciation": {
+        "slow": "위 가타 리브 포 댓 디너 띵 앳 파이브",
+        "fast": "위 가라 리브퍼 대디너띵 애파이브",
+        "notes": [
+          "we gotta → 위가라: gotta의 t가 굴러 'ㄹ'처럼 들립니다.",
+          "leave for → 리브퍼: for는 약해져 '퍼'에 가깝습니다.",
+          "that dinner → 대디너: that의 t가 약해져 dinner와 붙습니다.",
+          "at 5 → 애파이브: at의 t가 five 앞에서 거의 사라집니다.",
+          "thing의 th는 혀를 이 사이에 살짝 대고 냅니다."
+        ]
+      },
+      "tips": {
+        "stress": "we GOTta LEAVE for that DINner THING at FIVE.",
+        "linking": "we gotta → 위가라 / that dinner → 대디너 / at 5 → 애파이브",
+        "intonation": "마지막 five에서 내려갑니다(↘).",
+        "breath": "we gotta leave / for that dinner thing / at 5 로 나누면 편합니다."
+      },
+      "examples": [
+        {
+          "en": "We gotta go.",
+          "ko": "우리 가야 돼."
+        },
+        {
+          "en": "I gotta leave for the airport at six.",
+          "ko": "6시에 공항으로 출발해야 해."
+        },
+        {
+          "en": "Are you coming to that work thing on Friday?",
+          "ko": "금요일에 그 회사 모임 올 거야?"
+        },
+        {
+          "en": "We have to leave for the party by seven.",
+          "ko": "7시까지는 파티에 가려고 출발해야 해."
+        }
+      ],
+      "summary": "gotta는 '~해야 한다', leave for는 '~로 출발하다', that dinner thing은 서로 아는 저녁 모임을 가볍게 뭉뚱그려 부르는 말입니다.",
+      "tags": [
+        "구어체",
+        "gotta",
+        "일정"
+      ],
+      "level": 2,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "We ___ leave for that dinner thing at 5. (~해야 해, 구어체)",
+          "answer": "gotta",
+          "explanation": "gotta = got to = have to. 뒤에는 동사원형이 옵니다."
+        },
+        {
+          "type": "meaning",
+          "q": "'that dinner thing'의 뉘앙스로 가장 알맞은 것은?",
+          "choices": [
+            "서로 아는 저녁 모임을 가볍게 뭉뚱그려 부르는 말",
+            "처음 언급하는 새로운 식당 이름",
+            "저녁 식사 메뉴의 이름",
+            "격식을 갖춘 공식 만찬"
+          ],
+          "answer": "서로 아는 저녁 모임을 가볍게 뭉뚱그려 부르는 말",
+          "explanation": "that은 둘 다 아는 것을 가리키고, thing은 정확한 이름 대신 쓰는 구어체 표현입니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "우리 5시에 그 저녁 모임 가려고 출발해야 해. (gotta 사용)",
+          "answer": "We gotta leave for that dinner thing at 5.",
+          "explanation": "gotta + 동사원형, leave for + 행사, at + 시각."
+        }
+      ]
     }
   ]
 }
