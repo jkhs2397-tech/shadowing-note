@@ -897,6 +897,91 @@
           "explanation": "gotta + 동사원형, leave for + 행사, at + 시각."
         }
       ]
+    },
+    {
+      "id": "i-guess-that-works-for-me",
+      "added": "2026-11-14",
+      "source": "",
+      "text": "I guess that works for me.",
+      "chunks": [
+        "I guess",
+        "that works",
+        "for me."
+      ],
+      "translation": "그럼 그걸로 하지 뭐. / 나는 그거 괜찮은 것 같아.",
+      "structure": [
+        "I guess (that) ~: '~인 것 같다'. 구어에서는 접속사 that이 거의 생략됩니다. 원래 형태는 I guess (that) that works for me.",
+        "that works: 뒤의 that은 앞에서 나온 제안이나 계획을 가리키는 대명사. work는 '일하다'가 아니라 '잘 맞다, 괜찮다'입니다.",
+        "work for + 사람: 그 사람에게 괜찮다, 맞다. Does Friday work for you? 처럼 묻는 데도 씁니다.",
+        "That works (for me)는 일정이나 제안에 대한 대답으로 자주 쓰는 고정 표현입니다."
+      ],
+      "nuance": "That works for me는 분명한 동의. 앞에 I guess가 붙으면 썩 내키지는 않지만 그 정도면 괜찮다는 마지못한 느낌이 생깁니다. 다만 얼마나 마지못한 어조인지는 말투와 장면에 따라 다르므로 음원 확인이 필요합니다. I guess는 단정을 피해 부드럽게 말하는 장치로도 자주 쓰입니다.",
+      "pronunciation": {
+        "slow": "아이 게스 댓 웍스 포 미",
+        "fast": "아이게스 댓 웍쓰퍼미",
+        "notes": [
+          "I guess → 아이게스: 앞부분이 약하게 지나갑니다.",
+          "that works → 댓 웍쓰: that의 t가 약해져 '대 웍쓰'에 가깝게 들리기도 합니다.",
+          "works for me → 웍쓰퍼미: for가 '퍼'로 약해지고 앞뒤와 이어집니다."
+        ]
+      },
+      "tips": {
+        "stress": "i GUESS that WORKS for ME.",
+        "linking": "works for me → 웍쓰퍼미",
+        "intonation": "전체적으로 낮고 내려가는(↘) 억양이 체념 섞인 동의처럼 들립니다. 끝을 올리면 질문처럼 들립니다.",
+        "breath": "I guess 뒤에 아주 짧게 쉬고 나머지는 한 호흡."
+      },
+      "examples": [
+        {
+          "en": "Sure, that works for me.",
+          "ko": "좋아, 나는 괜찮아."
+        },
+        {
+          "en": "Does Friday work for you?",
+          "ko": "금요일 괜찮아?"
+        },
+        {
+          "en": "I guess we could try it.",
+          "ko": "한번 해 볼 수는 있겠지."
+        },
+        {
+          "en": "I guess so.",
+          "ko": "그런 것 같아. / 그러든가."
+        }
+      ],
+      "summary": "That works for me는 '나는 괜찮아'라는 동의이고, 앞에 I guess를 붙이면 '그럼 그걸로 하지 뭐'라는 마지못한 느낌이 더해집니다.",
+      "tags": [
+        "구어체",
+        "동의",
+        "work for"
+      ],
+      "level": 2,
+      "quiz": [
+        {
+          "type": "cloze",
+          "q": "I guess that ___ for me. (나는 괜찮아)",
+          "answer": "works",
+          "explanation": "that이 주어이므로 3인칭 단수 works. work for + 사람은 '그 사람에게 괜찮다'입니다."
+        },
+        {
+          "type": "meaning",
+          "q": "'I guess that works for me.'의 뉘앙스로 가장 알맞은 것은?",
+          "choices": [
+            "그럼 그걸로 하지 뭐 (마지못한 동의)",
+            "그 계획은 절대 안 돼",
+            "내가 그 일을 하겠다",
+            "그게 뭔지 모르겠다"
+          ],
+          "answer": "그럼 그걸로 하지 뭐 (마지못한 동의)",
+          "explanation": "works for me는 동의이고, I guess가 붙어 미지근한 느낌이 됩니다."
+        },
+        {
+          "type": "ko2en",
+          "q": "그럼 그걸로 하지 뭐. (I guess 사용)",
+          "answer": "I guess that works for me.",
+          "explanation": "I guess + (that) + that works for me. 앞의 that은 생략됩니다."
+        }
+      ]
     }
   ]
 }
